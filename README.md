@@ -1,1 +1,1 @@
-# graphing-calculator
+# graphing_calculator
